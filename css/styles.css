@@ -1,0 +1,28 @@
+body {
+    background-color: #ECE5C7;
+}
+p {
+    font-family: cursive;
+    font-size: medium;
+}
+hr {
+    padding-top: 8px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 6%;
+}
+h1 {
+    color: #354259;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 34px;
+}
+h3 {
+    color: #94B49F;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+a {
+    color: #94B49F;
+}
